@@ -1,0 +1,14 @@
+# Player Movement State
+- ##  Ground
+	- Inputs:
+		- Jump -> Transitions to Air State
+		- Left & Right -> Walk
+	- Buffering:
+		- Coyote Frames 
+- ## Air
+	- Inputs:
+		- Left & Right -> Walk
+	- Buffering:
+		- Corner Edge Detection
+		- Jump buffering
+			- Record if jump was pressed anytime between frame that the player hit the ground to up to 2-4 frames prior 

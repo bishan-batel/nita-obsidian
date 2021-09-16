@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tech/Player.md",
-            "mode": "source"
-          }
-        },
-        "group": "d469bc6e9a87f6aa"
-      },
-      {
-        "id": "5622d644771df141",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "tech/Player.md",
+            "file": "tech/world/player/Player Movement State.md",
             "mode": "preview"
           }
-        },
-        "group": "d469bc6e9a87f6aa"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.49999809265137
   },
   "right": {
     "id": "96d7f506eed5634f",
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/Player.md",
+                "file": "tech/world/player/Player Movement State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +86,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b77937bce7d2e621",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +105,11 @@
   },
   "active": "947eae82a7bbae5c",
   "lastOpenFiles": [
+    "tech/world/player/Player Movement State.md",
+    "tech/world/player/Player.md",
     "tech/Player.md",
+    "tech/Player Movement State.md",
+    "Player Movement State.md",
     "Untitled.md",
     "Untitled 1.md",
     "Player.md",
