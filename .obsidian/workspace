@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "61c4db5dbf927be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "947eae82a7bbae5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tech/Player.md",
+            "mode": "source"
+          }
+        },
+        "group": "d469bc6e9a87f6aa"
+      },
+      {
+        "id": "5622d644771df141",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tech/Player.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d469bc6e9a87f6aa"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a352450bfc47443",
+    "type": "split",
+    "children": [
+      {
+        "id": "b709b91bd4f22fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a801bf57c8e61f0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f1d046eb1392777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f39b1ceeb41f77b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96d7f506eed5634f",
+    "type": "split",
+    "children": [
+      {
+        "id": "93615d3c7d6755e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc9b8271773508e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tech/Player.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "947eae82a7bbae5c",
+  "lastOpenFiles": [
+    "tech/Player.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Player.md",
+    "Linking.md"
+  ]
+}
